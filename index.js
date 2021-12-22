@@ -1,1 +1,3 @@
-console.log('hello branches');
+import log from "@ajar/marker"
+
+log.v('hello branches');
