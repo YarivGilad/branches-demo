@@ -1,8 +1,9 @@
-import log from "@ajar/marker"
+import log from "@ajar/marker";
 
-log.v('hello branches');
-console.log('hello branches');
+log.v("hello branches");
+console.log("hello branches");
 
 //some changes 1
 //some changes 2
 //some changes 3
+//added my text
